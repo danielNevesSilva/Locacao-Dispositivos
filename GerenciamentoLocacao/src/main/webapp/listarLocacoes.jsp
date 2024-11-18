@@ -43,6 +43,7 @@
             <th>Data de Início</th>
             <th>Data de Fim</th>
             <th>Usuário</th>
+            <th>Status</th>
         </tr>
     
         <c:forEach var="locacao" items="${locacoes}">
@@ -52,6 +53,7 @@
             <td>${locacao.dataLocacaoIni}</td>
             <td>${locacao.dataLocacaoFim}</td>
             <td>${locacao.usuario}</td>
+            <td>Aguardando pagamento</td>
             <td>
                 <form action="/delete-locacao" method="post">
                     <input type="hidden" name="idLocacao" value="${locacao.id}">
@@ -65,10 +67,11 @@
                 <form action = "/alterLocacao" method = "post" >
                     <h4>Escolha Quadra</h4>
                     <select name="quadras" id="quadras" class="inputQuadra">
-                        <option>Quadra Sintética</option>
-                        <option>Quadra Volei/Basquete</option>
-                        <option>Quadra Futsal</option>
-                        <option>Quadra Tênis</option>
+                        <option>NOTEBOOK LENOVO</option>
+                        <option>NOTEBOOK DELL</option>
+                        <option>PROJETOR LG</option>
+                        <option>PROJETOR MULTILASER</option>
+                        <option>PROJETOR EPSON</option>
                     </select>
 
                     <h4>Escolha a data</h4>

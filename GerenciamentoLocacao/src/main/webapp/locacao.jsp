@@ -20,20 +20,22 @@
 
 
             <select name="quadras" id="quadras" class="inputQuadra">
-                <option>Quadra Sintética</option>
-                <option>Quadra Volei/Basquete</option>
-                <option>Quadra Futsal</option>
-                <option>Quadra Tênis</option>
+              <option>NOTEBOOK ACER</option>
+              <option>NOTEBOOK DELL</option>
+              <option>PROJETOR LG</option>
+              <option>PROJETOR MULTILASER</option>
+              <option>PROJETOR EPSON</option>
             
             </select>
 
-            <h4>Escolha a data</h4>
-            <input type="date" name="calendario" class="calendario" />
-
+                <h4>Data Retirada</h4>
+               <input type="date" name="calendario" id="datasCont" class="calendario" >
+               <div></div>
+                <h4>Data Devolução</h4>
+              <input type="date" name="calendarioFim" id="datasCont" class="calendario">
+<div></div>
+<h4>Horário de retirada </h4>
             <div class="reservaHorario">
-                
-                <h3 class="h3">Escolha a Horario: </h3>
-                
             <select name="horario" id="horario" >
                 <option>10:00</option>
                 <option>12:00</option>
@@ -45,7 +47,7 @@
 
             </div>
               
-            <h5 class="h5">locação tem uma duração de 2 horas </h5>
+            <h5>Valor a pagar <span>R$:</span></h5>
 
             <button type="button" class="botaoVoltar" onclick="fecharReserva()">🡨</button>
             <button type="submit" class="botao">Confirmar</button>
@@ -88,13 +90,13 @@
     <main>
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>Quadra Sintética</h1>
+                <h1>NOTEBOOK ACER NITRO</h1>
                 <img src="./img/QuadraSociety.png">
-                <h2>Incluir</h2>
+                <h2>Configurações</h2>
                 <div class="horarios">
-                    <h3>Coletes 16x <br>Bola 2x</h3>
-                    <h3>Segunda a Sabado <br>08h às 22h</h3>
-                    <h3>Av.Eng. Eusébio <br>Stevaux, 823</h3>
+                    <h3>Intel Core i5-13420H</h3>
+                    <h3>16 GB RAM</h3>
+                    <h3>RTX 3050</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -105,13 +107,13 @@
         <!--IMAGEM QUADRA Basquete (2)-->
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>Quadra Volei/Basquete</h1>
+                <h1>NOTEBOOK DELL</h1>
                 <img src="./img/QuadraBasquete.png">
-                <h2>Incluir</h2>
+                <h2>Configurações</h2>
                 <div class="horarios" >
-                    <h3>Coletes 16x <br>Bola 2x</h3>
-                    <h3>Segunda a Sabado <br>08h às 22h</h3>
-                    <h3>Av.Eng. Eusébio <br>Stevaux, 823</h3>
+                    <h3>Intel Core i5-10420H</h3>
+                                        <h3>8 GB RAM</h3>
+                                        <h3>RTX 1050</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -122,13 +124,13 @@
         <!--IMAGEM QUADRA COBERTA (3)-->
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>Quadra Futsal</h1>
+                <h1>PROJETOR LG</h1>
                 <img src="./img/QuadraCoberta.png">
-                <h2>Incluir</h2>
+                <h2>Configurações</h2>
                 <div class="horarios">
-                    <h3>Coletes 16x <br>Bola 2x</h3>
-                    <h3>Segunda a Sabado <br>08h às 22h</h3>
-                    <h3>Av.Eng. Eusébio <br>Stevaux, 823</h3>
+                    <h3>projetor Smart</h3>
+                    <h3>30 a 100 polegadas</h3>
+                    <h3>Full HD 4k</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -139,13 +141,13 @@
         <!--IMAGEM QUADRA Tênis (4)-->
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>Quadra Tênis</h1>
+                <h1>PROJETOR MULTILASER</h1>
                 <img src="./img/QuadraTenis.png">
-                <h2>Incluir</h2>
+                <h2>Configurações</h2>
                 <div class="horarios">
-                    <h3>Coletes 16x <br>Bola 2x</h3>
-                    <h3>Segunda a Sabado <br>08h às 22h</h3>
-                    <h3>Av.Eng. Eusébio <br>Stevaux, 823</h3>
+                    <h3>Mini projetor portatil</h3>
+                    <h3>Resolução 1080p</h3>
+                    <h3>30 a 50 polegadas</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -156,13 +158,13 @@
         <!--IMAGEM QUADRA Visão geral(5)-->
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>Quadra VisaoGeral</h1>
+                <h1>PROJETOR EPSON</h1>
                 <img src="./img/QuadraVisaoGeral.png">
-                <h2>Incluir</h2>
+                <h2>Configurações</h2>
                 <div class="horarios">
-                    <h3>Coletes 16x <br>Bola 2x</h3>
-                    <h3>Segunda a Sabado <br>08h às 22h</h3>
-                    <h3>Av.Eng. Eusébio <br>Stevaux, 823</h3>
+                    <h3>Projetor Cinema<br></h3>
+                    <h3>Resolução 4k</h3>
+                    <h3>Smart <br> Audio 8k</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -173,13 +175,13 @@
         <!--IMAGEM QUADRA Tênis (6)-->
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>Quadra Sintética</h1>
+                <h1>MACBOOK PRO</h1>
                 <img src="./img/QuadraSociety.png">
-                <h2>Incluir</h2>
+                <h2>Configurações</h2>
                 <div class="horarios">
-                    <h3>Coletes 16x <br>Bola 2x</h3>
-                    <h3>Segunda a Sabado <br>08h às 22h</h3>
-                    <h3>Av.Eng. Eusébio <br>Stevaux, 823</h3>
+                    <h3>M3 PRO 14</h3>
+                    <h3>18GB RAM</h3>
+                    <h3>APPLE M3</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -189,6 +191,7 @@
     </main>
 
     <script src="JS/Scripts.js"></script>
+    <script src="JS/ValorLocacao.js"></script>
     <script src="JS/Scriptscalendario.js"></script>
     <script src="https://kit.fontawesome.com/998c60ef77.js" crossorigin="anonymous"></script>
 </body>

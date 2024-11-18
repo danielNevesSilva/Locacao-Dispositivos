@@ -40,7 +40,7 @@ public class LocacaoDao {
     }
 
     public List<Locacao> listarLocacoes(String usuario) {
-        String listarLocacao = "SELECT * FROM RESERVA WHERE USUARIO = ?";
+        String listarLocacao = "SELECT ID_RESERVA,  NOME_LOCAVEL, FORMATDATETIME(DT_INICIO, 'dd/MM/YYYY HH:mm') AS DT_INICIO, FORMATDATETIME(DT_FIM, 'dd/MM/YYYY HH:mm') AS DT_FIM, USUARIO  FROM RESERVA WHERE USUARIO = ?";
 
         try (Connection connection = DriverManager.getConnection("jdbc:h2:~/test", "sa", "sa")) {
             System.out.println("success in database connection");
