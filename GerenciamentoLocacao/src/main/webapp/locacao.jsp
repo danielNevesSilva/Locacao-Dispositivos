@@ -49,6 +49,11 @@
             </div>
               
             <h5>Valor a pagar <span>R$:</span></h5>
+            <div id="imagemQRCode" style="display: none;">
+                <h5>
+                <img src="./img/QRCode.png" alt="QR Code para pagamento" style="width: 150px; height: 150px; margin-right: 150px; margin-left: 150px;" />
+                </h5>
+            </div>
 
             <button type="button" class="botaoVoltar" onclick="fecharReserva()">🡨</button>
             <button type="submit" class="botao">Confirmar</button>
