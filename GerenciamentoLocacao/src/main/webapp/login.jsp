@@ -114,8 +114,8 @@
        <!-- BUSCAR -->
        <div class="campo-busca">
                
-        <h2 class="jogoRegras">Seu jogo, suas regras. <br>
-            Reserve sua quadra esportiva conosco!</h2>
+        <h2 class="jogoRegras">Seu trabalho, suas regras. <br>
+                           Reserve equipamentos conosco!</h2>
         
         <div>
             <button class="botaoBuscar" onclick="window.location.href='/locacao.jsp';">Locação</button>
@@ -133,25 +133,25 @@
             <div class="txtBloco">
 
                 <div>
-                    Get Quick desenvolvido por alunos do Senac. <br>
+                                Big Tech Locações desenvolvido por alunos do Senac. <br>
 
-                </div>
+                            </div>
 
-                <div>
-                    Sistema de cadastro e locação de equipamentos. <br>
+                            <div>
+                                Sistema de cadastro e locação de equipamentos. <br>
 
-                </div>
-                <div>
-                    +5 Quadras poliesportivas. <br>
-                </div>
+                            </div>
+                            <div>
+                                +5 Equipamentos. <br>
+                            </div>
 
-                <div>
-                    Society<br>
-                    Poliesportiva <br>
-                    Tenis <br>
-                    E mais
-                </div>
-            </div>
+                            <div>
+                                Windows<br>
+                                IOs <br>
+                                Projetores <br>
+                                E mais
+                            </div>
+                        </div>
 
 
 
@@ -182,7 +182,7 @@
         <!-- Carousel -->
 
         <div class="carrossel">
-            <h2 class="titulo-quadras"> Locação de Quadras Esportivas - O Seu Espaço de Competição!</h2>
+            <h2 class="titulo-quadras"> Locação de equipamentos!</h2>
             <div class="img-quadras">
 
                 <img class="testimg" src="./img/CarrosselAberto.png" onclick="window.location.href='./locacao.jsp';"/>

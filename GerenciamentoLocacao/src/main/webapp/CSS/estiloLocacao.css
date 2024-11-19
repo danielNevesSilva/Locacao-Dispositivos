@@ -23,8 +23,7 @@
 }
 body{
   
-  font-family: 'Montserrat', sans-serif;
-  
+
 }
 /*FUNDO ESCURO AO ABRIR O DIALOG*/
 #overlay {
@@ -241,7 +240,6 @@ main{
 
 
   .botao:hover{
-
     background: #f1b477de;
     color: #fff;
     border: 0px solid #eee;
@@ -250,19 +248,7 @@ main{
     
     }
 
-    .botaolocacao{
-      margin-bottom: 20px;
-    }
-    
-    .botaolocacao:hover{
 
-      background: #f1b477de;
-      color: #fff;
-      border: 0px solid #eee;
-      border-radius: 9px;
-      text-shadow: none;
-      
-      }
 
     .botao {
     font-family: 'Montserrat', sans-serif;
@@ -295,8 +281,15 @@ main{
       margin-top: 10px;
       margin-right: 2.5vh;
       margin-bottom: 10px;
-  
       }
+      .botaoLocacao:hover{
+            background: #f1b477de;
+            color: #fff;
+            border: 0px solid #eee;
+            border-radius: 9px;
+            text-shadow: none;
+
+            }
 
       .botaoVoltar{
        font-family: 'Montserrat', sans-serif;

@@ -22,10 +22,11 @@
             <select name="quadras" id="quadras" class="inputQuadra">
               <option>NOTEBOOK ACER</option>
               <option>NOTEBOOK DELL</option>
-              <option>PROJETOR LG</option>
+              <option>NOTEBOOK ALIENWARE</option>
               <option>PROJETOR MULTILASER</option>
               <option>PROJETOR EPSON</option>
-            
+              <option>MACBOOK PRO</option>
+
             </select>
 
                 <h4>Data Retirada</h4>
@@ -91,11 +92,11 @@
         <div class="main-locacao">
             <div class="img-locacao">
                 <h1>NOTEBOOK ACER NITRO</h1>
-                <img src="./img/QuadraSociety.png">
+                <img src="./img/NotebookAcerNitro.png ">
                 <h2>Configurações</h2>
                 <div class="horarios">
                     <h3>Intel Core i5-13420H</h3>
-                    <h3>16 GB RAM</h3>
+                    <h3>16GB RAM</h3>
                     <h3>RTX 3050</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
@@ -108,11 +109,11 @@
         <div class="main-locacao">
             <div class="img-locacao">
                 <h1>NOTEBOOK DELL</h1>
-                <img src="./img/QuadraBasquete.png">
+                <img src="./img/NotebookDell.png">
                 <h2>Configurações</h2>
                 <div class="horarios" >
                     <h3>Intel Core i5-10420H</h3>
-                                        <h3>8 GB RAM</h3>
+                                        <h3>8GB RAM</h3>
                                         <h3>RTX 1050</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
@@ -124,13 +125,13 @@
         <!--IMAGEM QUADRA COBERTA (3)-->
         <div class="main-locacao">
             <div class="img-locacao">
-                <h1>PROJETOR LG</h1>
-                <img src="./img/QuadraCoberta.png">
+                <h1>NOTEBOOK ALIENWARE</h1>
+                <img src="./img/AlienWare.png">
                 <h2>Configurações</h2>
                 <div class="horarios">
-                    <h3>projetor Smart</h3>
-                    <h3>30 a 100 polegadas</h3>
-                    <h3>Full HD 4k</h3>
+                    <h3>64GB RAM</h3>
+                    <h3>Intel Core i9-13420H</h3>
+                    <h3>Moniteor 240H</h3>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
@@ -142,7 +143,7 @@
         <div class="main-locacao">
             <div class="img-locacao">
                 <h1>PROJETOR MULTILASER</h1>
-                <img src="./img/QuadraTenis.png">
+                <img src="./img/ProjetorMultilaser.png">
                 <h2>Configurações</h2>
                 <div class="horarios">
                     <h3>Mini projetor portatil</h3>
@@ -159,7 +160,7 @@
         <div class="main-locacao">
             <div class="img-locacao">
                 <h1>PROJETOR EPSON</h1>
-                <img src="./img/QuadraVisaoGeral.png">
+                <img src="./img/ProjetorEpson.png">
                 <h2>Configurações</h2>
                 <div class="horarios">
                     <h3>Projetor Cinema<br></h3>
@@ -176,7 +177,7 @@
         <div class="main-locacao">
             <div class="img-locacao">
                 <h1>MACBOOK PRO</h1>
-                <img src="./img/QuadraSociety.png">
+                <img src="./img/Macbook-PNG-Pic.png">
                 <h2>Configurações</h2>
                 <div class="horarios">
                     <h3>M3 PRO 14</h3>
