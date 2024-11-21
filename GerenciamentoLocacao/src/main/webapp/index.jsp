@@ -110,7 +110,7 @@
     <!-- Logo e Botões -->
     <div class="header">
         <div class="logo-site">
-            <img class="logoQuick" src="./img/logoGetQuick.png">
+            <img class="logoQuick" src="./img/bigTech1.png">
         </div>
 
         <div class="botoes-nav">
@@ -149,35 +149,6 @@
 
      <!-- Conheça nosso site -->
 
-     <div class="container-site">
-
-        <div class="sobre-site">
-            Conheça nosso site
-        </div>
-        <div class="txtBloco">
-
-            <div>
-                Big Tech Locações desenvolvido por alunos do Senac. <br>
-
-            </div>
-
-            <div>
-                Sistema de cadastro e locação de equipamentos. <br>
-
-            </div>
-            <div>
-                +5 Equipamentos. <br>
-            </div>
-
-            <div>
-                Windows<br>
-                IOs <br>
-                Projetores <br>
-                E mais
-            </div>
-        </div>
-
-    </div>
 
 
     <!-- Sobre locação -->
@@ -187,17 +158,17 @@
         <div class="sobre-texto">Sobre Locação</div>
 
     <div class="imgBloco">
-        <img class="imagem-clara" src="./img/24hrs.png" alt="24hrclaro">
-        <img class="imagem-escura" src="./img/24hrsdark.png" alt="Imagem Escura">
+        <img class="imagem-clara" src="./img/MlhrAvaliacaoWhite.png" alt="24hrclaro">
+        <img class="imagem-escura" src="./img/MlhrAvaliacaoBlack.png" alt="Imagem Escura">
     
-        <img class="imagem-clara" src="./img/aluno.png" alt="alunoclaro">
-        <img class="imagem-escura" src="./img/alunodark.png" alt="alunoclaro">
+        <img class="imagem-clara" src="./img/MelhorEqptoWhite.png" alt="alunoclaro">
+        <img class="imagem-escura" src="./img/MelhorEqptoBlack.png" alt="alunoclaro">
    
-        <img class="imagem-clara" src="./img/quadras.png" alt="quadrasclaro">
-        <img class="imagem-escura" src="./img/quadrasdark.png" alt="quadrasdark">
+        <img class="imagem-clara" src="./img/MelhorPrecoWhite.png" alt="quadrasclaro">
+        <img class="imagem-escura" src="./img/MelhorPrecoBlack.png" alt="quadrasdark">
     
-        <img class="imagem-clara" src="./img/colegas.png" alt="colegasclaro">
-        <img class="imagem-escura" src="./img/colegasdark.png" alt="colegasdark">
+        <img class="imagem-clara" src="./img/EntregaWhite.png" alt="colegasclaro">
+        <img class="imagem-escura" src="./img/EntregaBlack.png" alt="colegasdark">
     </div>
         
 </div>
@@ -208,16 +179,16 @@
             <h2 class="titulo-quadras"> Locação de equipamentos!</h2>
             <div class="img-quadras">
                 
-                <img class="testimg" src="./img/CarrosselAberto.png" onclick="abrirLoginAlerta()"/>
-                <img class="testimg" src="./img/CarrosselCoberta.png" onclick="abrirLoginAlerta()"/>
+                <img class="testimg" src="./img/CarrosselCel.png" onclick="abrirLoginAlerta()"/>
+                <img class="testimg" src="./img/Carrossel2.png" onclick="abrirLoginAlerta()"/>
                <!-- <button class="botaoLocacao">Clique Aqui</button>-->
  
             </div>
         </div>
-
+    <!--
     <div class="mapa-senac">
         <div>
-            <!-- Código do mapa aqui -->
+           Código do mapa aqui
             <iframe src="https://www.google.com/maps/d/embed?mid=1REeSYLXKotZmndQNu4CbqghnbqPMc74&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
         </div>
         <div class="mapa-teste">
@@ -233,7 +204,7 @@
         </div>
         </div>
     </div>
-
+    -->
 
  
 </header>

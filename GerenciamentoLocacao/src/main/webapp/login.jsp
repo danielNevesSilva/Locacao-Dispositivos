@@ -78,7 +78,7 @@
 
         <div class="header">
             <div class="logo-site">
-                <img class="logoQuick" src="./img/logoGetQuick.png">
+                <img class="logoQuick" src="./img/bigTech1.png">
             </div>
 
             <div class="botoes-nav">
@@ -114,8 +114,7 @@
        <!-- BUSCAR -->
        <div class="campo-busca">
                
-        <h2 class="jogoRegras">Seu trabalho, suas regras. <br>
-                           Reserve equipamentos conosco!</h2>
+        <h2 class="jogoRegras">Seu trabalho, suas regras. <br> Garanta já a reseverva do seu equipamento conosco!</h2>
         
         <div>
             <button class="botaoBuscar" onclick="window.location.href='/locacao.jsp';">Locação</button>
@@ -132,24 +131,19 @@
             </div>
             <div class="txtBloco">
 
-                <div>
-                                Big Tech Locações desenvolvido por alunos do Senac. <br>
-
+                            <div>
+                                Big Tech Locações, o melhor lugar para encontrar seu dispositivo.
                             </div>
 
                             <div>
-                                Sistema de cadastro e locação de equipamentos. <br>
-
+                                Os melhores preços disponíveis no mercado!
                             </div>
                             <div>
-                                +5 Equipamentos. <br>
+                                A maior variedade de eletrônicos para locação!
                             </div>
 
                             <div>
-                                Windows<br>
-                                IOs <br>
-                                Projetores <br>
-                                E mais
+                                Windows, Android, IOs, Projetores e muito mais!
                             </div>
                         </div>
 
@@ -164,17 +158,18 @@
             <div class="sobre-texto">Sobre Locação</div>
 
             <div class="imgBloco">
-                <img class="imagem-clara" src="./img/24hrs.png" alt="24hrclaro">
-                <img class="imagem-escura" src="./img/24hrsdark.png" alt="Imagem Escura">
 
-                <img class="imagem-clara" src="./img/aluno.png" alt="alunoclaro">
-                <img class="imagem-escura" src="./img/alunodark.png" alt="alunoclaro">
+                <img class="imagem-clara" src="./img/MlhrAvaliacaoWhite.png" alt="alunoclaro">
+                <img class="imagem-escura" src="./img/MlhrAvaliacaoBlack.png" alt="alunoclaro">
 
-                <img class="imagem-clara" src="./img/quadras.png" alt="quadrasclaro">
-                <img class="imagem-escura" src="./img/quadrasdark.png" alt="quadrasdark">
+                <img class="imagem-clara" src="./img/MelhorEqptoWhite.png" alt="quadrasclaro">
+                <img class="imagem-escura" src="./img/MelhorEqptoBlack.png" alt="quadrasdark">
 
-                <img class="imagem-clara" src="./img/colegas.png" alt="colegasclaro">
-                <img class="imagem-escura" src="./img/colegasdark.png" alt="colegasdark">
+                <img class="imagem-clara" src="./img/MelhorPrecoWhite.png" alt="colegasclaro">
+                <img class="imagem-escura" src="./img/MelhorPrecoBlack.png" alt="colegasdark">
+
+                <img class="imagem-clara" src="./img/EntregaWhite.png" alt="colegasclaro">
+                <img class="imagem-escura" src="./img/EntregaBlack.png" alt="colegasdark">
             </div>
 
         </div>
@@ -185,8 +180,8 @@
             <h2 class="titulo-quadras"> Locação de equipamentos!</h2>
             <div class="img-quadras">
 
-                <img class="testimg" src="./img/CarrosselAberto.png" onclick="window.location.href='./locacao.jsp';"/>
-                <img class="testimg" src="./img/CarrosselCoberta.png" onclick="window.location.href='./locacao.jsp';"/>
+                <img class="testimg" src="./img/CarrosselCel.png" onclick="window.location.href='./locacao.jsp';"/>
+                <img class="testimg" src="./img/Carrossel2.png" onclick="window.location.href='./locacao.jsp';"/>
                 <!-- <button class="botaoLocacao">Clique Aqui</button>-->
 
             </div>

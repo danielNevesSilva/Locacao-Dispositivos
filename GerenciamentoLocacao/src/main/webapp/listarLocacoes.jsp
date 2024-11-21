@@ -8,6 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
+
+
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="CSS/estiloListarLocacao.css" media="screen" />
@@ -19,7 +21,7 @@
         <div class="header">
             <div class="logo-site">
                 <div class="container">
-                    <img class="logoQuick" src="./img/logoGetQuick.png">
+                    <img class="logoQuick" src="./img/bigTech1.png">
                     <!-- Modo Dark -->
                 </div>
                 

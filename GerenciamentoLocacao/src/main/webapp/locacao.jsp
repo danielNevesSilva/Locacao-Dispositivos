@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="CSS/estiloLocacao.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="CSS/site.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="CSS/complemento.css" media="screen" />
+
+
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
@@ -61,11 +65,14 @@
         <div class="header">
             <div class="logo-site">
                 <div class="container">
-                    <img class="logoQuick" src="./img/logoGetQuick.png">
+                    <img class="logoQuick" src="./img/bigTech1.png">
                     <!-- Modo Dark -->
                 </div>
                
             </div>
+
+
+
             <div class="botoes-locacao">
                 <div>
                     <button  class="botao" onclick="window.location.href='./login.jsp';">Inicio</button>
@@ -83,9 +90,23 @@
           
             
         </div>
+
+
     </header>
 
-    
+    <div class="ctn-Whats">
+
+        <div class="sbr-Whats">
+            Veja os dispositivos disponíveis para locação!
+        </div>
+
+        <div class="sbr-WhatsSub">
+            Em caso de dúvida, entre em contato conosco pelo WhatsApp: (11) 91111-0000.
+        </div>
+
+    </div>
+
+
 
     <!--IMAGEM QUADRA Sintetica (1)-->
     <main>
@@ -143,7 +164,7 @@
         <div class="main-locacao">
             <div class="img-locacao">
                 <h1>PROJETOR MULTILASER</h1>
-                <img src="./img/ProjetorMultilaser.png">
+                <img src="./img/ProjetorMulti.png">
                 <h2>Configurações</h2>
                 <div class="horarios">
                     <h3>Mini projetor portatil</h3>
@@ -183,6 +204,7 @@
                     <h3>M3 PRO 14</h3>
                     <h3>18GB RAM</h3>
                     <h3>APPLE M3</h3>
+                    <br/>
                     <div class="botao-pai">
                         <button class="botao" onclick="abrirReserva()">Reservar</button>
                     </div>
