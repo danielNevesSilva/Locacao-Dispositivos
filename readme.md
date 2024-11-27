@@ -1,54 +1,59 @@
 # Big Tech Locações
 
-Projeto realizado nos moldes das exigências da matéria de Projeto Integrador: Desenvolvimento de Projeto Integrador Análise de Soluções Integradas para Organizações, do SENAC, 2024.
+Projeto desenvolvido conforme os requisitos da disciplina **Projeto Integrador: Análise de Soluções Integradas para Organizações**, do SENAC, 2024.
 
-## Visão do Produto
+### Visão do Produto
 
-O projeto visa criar um site para locação de produtos de informática, como desktops, notebooks, celulares, câmeras e periféricos. O objetivo é fornecer uma plataforma online intuitiva e acessível, onde clientes possam alugar produtos de alta tecnologia por períodos variados, facilitando o acesso a equipamentos de qualidade sem a necessidade de aquisição definitiva.
+O **Big Tech Locações** é uma plataforma online para locação de produtos de informática, como desktops, notebooks, celulares, câmeras e periféricos. O objetivo é oferecer um sistema intuitivo e acessível que permita aos clientes alugar equipamentos tecnológicos de alta qualidade por períodos variados, facilitando o acesso sem a necessidade de aquisição definitiva.
 
-## Justificativas
+### Justificativa
 
-Com o aumento da demanda por dispositivos tecnológicos, tanto para uso pessoal quanto profissional, o custo de aquisição de novos equipamentos pode ser proibitivo para muitos. A locação oferece uma solução econômica e flexível para atender a necessidades pontuais ou de curto prazo, especialmente em setores como home office, educação e eventos. Além disso, a rápida obsolescência dos produtos tecnológicos reforça a necessidade de soluções temporárias e de fácil substituição.
+Com o aumento da demanda por dispositivos tecnológicos para fins pessoais e profissionais, o alto custo de aquisição torna-se uma barreira significativa. A locação surge como uma solução econômica e flexível, ideal para atender necessidades pontuais ou de curto prazo, especialmente em contextos como home office, educação e eventos. Além disso, a rápida obsolescência de dispositivos reforça a necessidade de opções temporárias e fáceis de substituir.
 
-## Objetivos
+### Objetivos
 
-* Facilitar o acesso a equipamentos de informática modernos por meio da locação.
-* Proporcionar uma experiência de usuário simples e eficiente.
-* Oferecer diferentes planos de aluguel que atendam tanto a indivíduos quanto a empresas.
-* Criar uma plataforma que permita a gestão de estoque, entrega e devolução dos produtos locados.
-* Reduzir o custo de acesso a tecnologia para pessoas e empresas que precisam de soluções temporárias.
+- Tornar o acesso a equipamentos de informática modernos mais acessível por meio da locação.
+- Proporcionar uma experiência de usuário simples e eficiente.
+- Oferecer planos de aluguel personalizados para indivíduos e empresas.
+- Implementar ferramentas para gestão de estoque, entrega e devolução de produtos.
+- Reduzir o custo de acesso à tecnologia para diferentes públicos.
 
-## Valor Agregado
+### Valor Agregado
 
-___________
+A plataforma oferece flexibilidade, economia e conveniência, permitindo que os clientes escolham equipamentos sob demanda, sem compromissos financeiros de longo prazo. Com produtos constantemente atualizados, o **Big Tech Locações** garante o acesso a tecnologia de ponta de maneira prática e acessível.
 
-## Definição de Personas e Jornada do usuário
 
-![Definição de persona Mariana](/Locacao-Dispositivos/images/BigTech-Persona01.png)
+## Personas e Jornada do Usuário
 
-![Jornada do usuário Mariana](/Locacao-Dispositivos/images/BigTech-Persona01-Jornada.png)
+Para o desenvolvimento do projeto, primeiramente foram definidas as personas e suas jornadas, com o objetivo de compreender os perfis dos principais usuários, suas necessidades e objetivos. As jornadas detalham o fluxo de interação com a plataforma, identificando oportunidades de melhoria na experiência do cliente. Confira abaixo as personas e suas respectivas jornadas:
 
-![Definição de persona Pedro](/Locacao-Dispositivos/images/BigTech-Persona02.png)
+### Personas
 
-![Jornada do usuário Pedro](/Locacao-Dispositivos/images/BigTech-Persona02-Jornada.png)
+![Definição de persona Mariana](/images/BigTech-Persona01.png)
+![Definição de persona Pedro](/images/BigTech-Persona02.png)
+![Definição de persona Carolina](/images/BigTech-Persona03.png)
 
-![Definição de persona Carolina](/Locacao-Dispositivos/images/BigTech-Persona03.png)
+### Jornada do Usuário
 
-![Jornada do usuário Carolina](/Locacao-Dispositivos/images/BigTech-Persona03-Jornada.png)
+![Jornada do usuário Mariana](/images/BigTech-Persona01-Jornada.png)
+![Jornada do usuário Pedro](/images/BigTech-Persona02-Jornada.png)
+![Jornada do usuário Carolina](/images/BigTech-Persona03-Jornada.png)
 
 
 ## Diagrama do Banco de Dados
 
 
-## Paleta de cores
+## Prototipação
 
-![Paleta de cores](/Locacao-Dispositivos/images/BigTech-Paleta.png)
+Para o desenvolvimento do projeto, foi criada uma prototipação inicial que definiu o design e a estrutura das telas, garantindo uma experiência de usuário intuitiva e eficiente. A paleta de cores foi cuidadosamente selecionada para reforçar a identidade visual do produto, e os protótipos de alta fidelidade foram desenvolvidos no Figma. Confira abaixo os detalhes:
 
-## Prototipos das telas:
+### Paleta de Cores
 
-O protótipo de alta fidelidade do projeto foi desenvolvido na plataforma de design Figma. Segue abaixo as imagens das telas desenhadas. 
+![Paleta de cores](/images/BigTech-Paleta.png)
 
-![Protótipo tela Home](/Locacao-Dispositivos/images/BigTech-Home.png)
-![Protótipo tela Cadastro de usuário](/Locacao-Dispositivos/images/BigTech-Cadastro.png)
-![Protótipo tela Login](/Locacao-Dispositivos/images/BigTech-Login.png)
+### Protótipos de Telas
+
+![Protótipo tela Home](/images/BigTech-Home.png)
+![Protótipo tela Cadastro de usuário](/images/BigTech-Cadastro.png)
+![Protótipo tela Login](/images/BigTech-Login.png)
  
