@@ -23,6 +23,10 @@ Com o aumento da demanda por dispositivos tecnológicos para fins pessoais e pro
 A plataforma oferece flexibilidade, economia e conveniência, permitindo que os clientes escolham equipamentos sob demanda, sem compromissos financeiros de longo prazo. Com produtos constantemente atualizados, o **Big Tech Locações** garante o acesso a tecnologia de ponta de maneira prática e acessível.
 
 
+### Modelos de Dados 
+
+![Modelo entidade e relacionamento](/diagramaBD/Modelo_Logico_BD.PNG)
+
 ## Personas e Jornada do Usuário
 
 Para o desenvolvimento do projeto, primeiramente foram definidas as personas e suas jornadas, com o objetivo de compreender os perfis dos principais usuários, suas necessidades e objetivos. As jornadas detalham o fluxo de interação com a plataforma, identificando oportunidades de melhoria na experiência do cliente. Confira abaixo as personas e suas respectivas jornadas:
