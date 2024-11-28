@@ -51,9 +51,15 @@ Para o desenvolvimento do projeto, foi criada uma prototipação inicial que def
 
 ![Paleta de cores](/images/BigTech-Paleta.png)
 
+### Logo
+
+![Logo Big Tech](/images/BigTech-Logo.png)
+
 ### Protótipos de Telas
 
 ![Protótipo tela Home](/images/BigTech-Home.png)
 ![Protótipo tela Cadastro de usuário](/images/BigTech-Cadastro.png)
 ![Protótipo tela Login](/images/BigTech-Login.png)
+![Prtótipo tela equipamentos](/images/BigTech-Locacao01.png)
+![Prtótipo tela locação](/images/BigTech-Locacao02.png)
  
