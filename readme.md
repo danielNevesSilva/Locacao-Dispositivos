@@ -66,7 +66,4 @@ Para o desenvolvimento do projeto, foi criada uma prototipação inicial que def
 ![Protótipo tela Login](/images/BigTech-Login.png)
 ![Prtótipo tela equipamentos](/images/BigTech-Locacao01.png)
 ![Prtótipo tela locação](/images/BigTech-Locacao02.png)
- 
-### MER do Projeto
 
-![Modelo Lógico do Banco de Dados](/images/Modelo_Logico_BD.PNG)
