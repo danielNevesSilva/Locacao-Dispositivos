@@ -66,4 +66,21 @@ Para o desenvolvimento do projeto, foi criada uma prototipação inicial que def
 ![Protótipo tela Login](/images/BigTech-Login.png)
 ![Prtótipo tela equipamentos](/images/BigTech-Locacao01.png)
 ![Prtótipo tela locação](/images/BigTech-Locacao02.png)
+![Protótipo tela listagem locação](/images/BigTech-Listagem01.jpg)
+![Protótipo tela detalhes locação](/images/BigTech-Listagem02.jpg)
 
+
+## Passo a passo para abrir o projeto
+
+1. Abra a IDE *IntelliJ*.  
+2. Navegue até o painel do *Maven*.  
+3. Localize o projeto *GerenciamentoLocacao Maven Webapp*.  
+4. No menu do Maven, vá até *Plugins > tomcat7* e execute o comando tomcat7:run.  
+5. Acesse o projeto no navegador pelo link: [http://localhost:8080/](http://localhost:8080/).  
+6. Abra o console no link: [http://localhost:8080/console](http://localhost:8080/console).  
+   - Faça login no banco de dados:  
+     - *Usuário*: sa  
+     - *Senha*: sa  
+   - Cole o script disponível no arquivo fornecido e execute-o clicando em *Run*.  
+
+*Pronto!* O projeto estará funcionando.
