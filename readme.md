@@ -84,3 +84,20 @@ Para o desenvolvimento do projeto, foi criada uma prototipação inicial que def
    - Cole o script disponível no arquivo fornecido e execute-o clicando em *Run*.  
 
 *Pronto!* O projeto estará funcionando.
+
+
+## Funcionamento do projeto
+
+[Projeto Integrador - YouTube](https://www.youtube.com/watch?v=NMhYD_33uYo&feature=youtu.be)
+
+
+## Projeto realizado por:
+
+- ALAN TORRES SOUZA
+- BRUNA BARBOSA BELO
+- DANIEL NEVES
+- EDUARDO NAGANO LACERDA
+- FILIPE ALVES DE LIMA
+- ISABELLA CAMILO FRANCO
+- VICTOR SOUZA CARDIM
+
