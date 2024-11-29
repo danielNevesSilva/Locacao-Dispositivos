@@ -69,6 +69,31 @@ Para o desenvolvimento do projeto, foi criada uma prototipação inicial que def
 ![Protótipo tela listagem locação](/images/BigTech-Listagem01.jpg)
 ![Protótipo tela detalhes locação](/images/BigTech-Listagem02.jpg)
 
+## Tecnologias utilizadas 
+
+### 2. Tecnologias front-end e back-end
+
+#### 2.1 Front-end
+
+*Linguagens:*
+Utilizamos HTML para a estruturação das páginas, CSS para estilização e design responsivo, e JavaScript para implementar a lógica de interação no lado do cliente.
+
+*Funcionalidades implementadas no front-end:*
+Estrutura semântica e acessível utilizando HTML.
+Estilos personalizados para garantir uma boa experiência visual.
+Interatividade com JavaScript para validação de formulários e manipulação dinâmica da interface.
+
+#### 2.2 Back-end
+
+*Linguagem:*
+O back-end foi desenvolvido em Java, uma linguagem robusta e amplamente utilizada em aplicações empresariais.
+
+*Tecnologia:*
+Foi utilizado o Servlet, uma tecnologia do Java EE que permite a criação de aplicações web dinâmicas, responsáveis por lidar com requisições HTTP e gerar respostas apropriadas.
+
+*Banco de Dados:*
+O banco de dados utilizado foi o H2, um banco de dados relacional leve e embutido. A interface web do H2 foi configurada para facilitar o acesso e a manipulação de dados durante o desenvolvimento.
+
 
 ## Passo a passo para abrir o projeto
 
